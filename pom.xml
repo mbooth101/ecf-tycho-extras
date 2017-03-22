@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>uk.co.matbooth.tycho.extras</groupId>
   <artifactId>extra-tycho-extras</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Extra Tycho Extras</name>
   <description>Additional *additional* tools for Tycho</description>
@@ -51,7 +51,7 @@
     <url>https://github.com/mbooth101/extra-tycho-extras</url>
     <connection>scm:git:git://github.com/mbooth101/extra-tycho-extras.git</connection>
     <developerConnection>scm:git:git@github.com:mbooth101/extra-tycho-extras.git</developerConnection>
-    <tag>extra-tycho-extras-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
