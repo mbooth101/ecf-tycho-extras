@@ -2,13 +2,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.eclipse.ecf</groupId>
-  <artifactId>ecf-tycho-extras</artifactId>
+  <groupId>uk.co.matbooth.tycho.extras</groupId>
+  <artifactId>extra-tycho-extras</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>ECF Tycho Extras</name>
-  <description>Additional tools for Tycho used by ECF</description>
-  <url>https://github.com/mbooth101/ecf-tycho-extras</url>
+  <name>Extra Tycho Extras</name>
+  <description>Additional *additional* tools for Tycho</description>
+  <url>https://github.com/mbooth101/extra-tycho-extras</url>
 
   <prerequisites>
     <maven>3.1.1</maven>
@@ -37,7 +37,7 @@
   </developers>
 
   <issueManagement>
-    <url>https://github.com/mbooth101/ecf-tycho-extras/issues</url>
+    <url>https://github.com/mbooth101/extra-tycho-extras/issues</url>
     <system>GitHub Issues</system>
   </issueManagement>
 
@@ -49,9 +49,9 @@
   </distributionManagement>
 
   <scm>
-    <url>https://github.com/mbooth101/ecf-tycho-extras</url>
-    <connection>scm:git:git://github.com/mbooth101/ecf-tycho-extras.git</connection>
-    <developerConnection>scm:git:git@github.com:mbooth101/ecf-tycho-extras.git</developerConnection>
+    <url>https://github.com/mbooth101/extra-tycho-extras</url>
+    <connection>scm:git:git://github.com/mbooth101/extra-tycho-extras.git</connection>
+    <developerConnection>scm:git:git@github.com:mbooth101/extra-tycho-extras.git</developerConnection>
   </scm>
 
   <properties>

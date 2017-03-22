@@ -1,3 +1,5 @@
-# ECF Tycho Extras
+# Extra Tycho Extras
 
-This repository contains additional tools for Tycho used by ECF.
+Additional *additional* tools for Tycho.
+
+This repository contains miscellaneous or experimental Tycho extensions that may or may not be eventually contributed to one of the upstream Tycho projects. 
